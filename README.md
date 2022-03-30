@@ -1,6 +1,6 @@
-# no-download-monterey-installer-plz
+# Are you tired of Apple "Drive by Downloading" their full 12GB macOS Monterey Installer without your permission? If so, then this is the perfect solution for you, and you're in the right place!
 
-#### This project has been created for the sole purpose of preventing Apple from automatically downloading the macOS Monterey Installer without your permission as they are now doing, in efforts of conserving both bandwidth and disk storage.
+#### This repository has been created for the sole purpose of providing those people that wish for Apple not to "Drive by Download" their full 12GB macOS Monterey Installer app onto their machines a hacky, yet viable solution to prevent Apple from automatically downloading the macOS Monterey Installer without permission.
 
 
 ## Acknowledgements
